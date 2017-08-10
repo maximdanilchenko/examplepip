@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='examplepip',
-    version='1.0.0',
+    version='1.0.1',
     description='example for practice',
     author='The Python Packaging Authority',
     classifiers=[

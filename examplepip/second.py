@@ -1,7 +1,7 @@
 
 def some_func():
-    return 'success'
+    return 'success 1.0'
 
 
 def another_func():
-    return 'success'
+    return 'success 1.0'
